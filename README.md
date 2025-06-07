@@ -5,4 +5,8 @@ SE VA HACER LA PRUEBA DE UN REPORTE EN GITHUB
 - Diego Jasso Miranda
 
 [Arduino IDE 1.8.19](https://www.arduino.cc/en/software)
-![]([https://github.com/DiegoJm10/Mantenimiento-predicitivo-de-un-torno/blob/main/EVIDENCIA%20DE%20IMAGENES/esp32.jpg?raw=true](https://github.com/DiegoJm10/PRUEBA1/blob/main/2455-automatizacion-y-robotica-industrial-salidas.jpg?raw=true))
+![](https://github.com/DiegoJm10/PRUEBA1/blob/main/2455-automatizacion-y-robotica-industrial-salidas.jpg?raw=true)
+
+```
+Hola como estas
+```
